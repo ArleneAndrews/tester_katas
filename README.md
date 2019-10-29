@@ -22,5 +22,9 @@ The now-official repo for test exercises, so I don't have my code to share. PRs 
 - go to a site that has multiple items
 - wait for the site to load
 - click one item
- - return to the main page by clicking the back button
+- return to the main page by clicking the back button
 
+## Find the button
+- go to a shopping site 
+- locate all of the buttons (add item, search, etc)
+- Don't forget the drop-downs!
